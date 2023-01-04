@@ -1,4 +1,5 @@
 # kuiz_1
+Danar Ghulamsyah / 124200020 / SI-A 
 
 A new Flutter project.
 
